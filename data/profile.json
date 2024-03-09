@@ -1,0 +1,269 @@
+{
+    "celulares": [
+      {
+        "id": 1,
+        "marca": "Apple",
+        "nome": "Apple Iphone X",
+        "modelo": "X",
+        "versao": "entrada",
+        "foto": "https://raw.githubusercontent.com/Alochio/iphoneAPI/main/images/iphonex.jpg",
+        "tamanho_tela": "5.8 polegadas",
+        "memoria_max": "256GB",
+        "memoria_ram": "3GB"
+      },
+      {
+        "id": 2,
+        "marca": "Apple",
+        "nome": "Apple Iphone XR",
+        "modelo": "XR",
+        "versao": "entrada",
+        "foto": "https://raw.githubusercontent.com/Alochio/iphoneAPI/main/images/iphonexr.jpg",
+        "tamanho_tela": "6.1 polegadas",
+        "memoria_max": "256GB",
+        "memoria_ram": "3GB"
+      },
+      {
+        "id": 3,
+        "marca": "Apple",
+        "nome": "Apple Iphone XS",
+        "modelo": "XS",
+        "versao": "entrada",
+        "foto": "https://raw.githubusercontent.com/Alochio/iphoneAPI/main/images/iphonexs.jpg",
+        "tamanho_tela": "5.8 polegadas",
+        "memoria_max": "512GB",
+        "memoria_ram": "4GB"
+      },
+      {
+        "id": 4,
+        "marca": "Apple",
+        "nome": "Apple Iphone XS Max",
+        "modelo": "XS",
+        "versao": "MAX",
+        "foto": "https://raw.githubusercontent.com/Alochio/iphoneAPI/main/images/iphonexsmax.jpg",
+        "tamanho_tela": "6.5 polegadas",
+        "memoria_max": "512GB",
+        "memoria_ram": "4GB"
+      },
+      {
+        "id": 5,
+        "marca": "Apple",
+        "nome": "Apple Iphone 11",
+        "modelo": "11",
+        "versao": "entrada",
+        "foto": "https://raw.githubusercontent.com/Alochio/iphoneAPI/main/images/iphone11.jpg",
+        "tamanho_tela": "6.1 polegadas",
+        "memoria_max": "512GB",
+        "memoria_ram": "4GB"
+      },
+      {
+        "id": 6,
+        "marca": "Apple",
+        "nome": "Apple Iphone 11 PRO",
+        "modelo": "11",
+        "versao": "PRO",
+        "foto": "https://raw.githubusercontent.com/Alochio/iphoneAPI/main/images/iphone11pro.jpg",
+        "tamanho_tela": "5.8 polegadas",
+        "memoria_max": "512GB",
+        "memoria_ram": "4GB"
+      },
+      {
+        "id": 7,
+        "marca": "Apple",
+        "nome": "Apple Iphone 11 PRO MAX",
+        "modelo": "11",
+        "versao": "PRO MAX",
+        "foto": "https://raw.githubusercontent.com/Alochio/iphoneAPI/main/images/iphone11promax.jpg",
+        "tamanho_tela": "6.5 polegadas",
+        "memoria_max": "512GB",
+        "memoria_ram": "4GB"
+      },
+      {
+        "id": 8,
+        "marca": "Apple",
+        "nome": "Apple Iphone SE",
+        "modelo": "SE",
+        "versao": "entrada",
+        "foto": "https://raw.githubusercontent.com/Alochio/iphoneAPI/main/images/iphonese.jpg",
+        "tamanho_tela": "4.7 polegadas",
+        "memoria_max": "256GB",
+        "memoria_ram": "4GB"
+      },
+      {
+        "id": 9,
+        "marca": "Apple",
+        "nome": "Apple Iphone 12",
+        "modelo": "12",
+        "versao": "entrada",
+        "foto": "https://raw.githubusercontent.com/Alochio/iphoneAPI/main/images/iphone12.jpg",
+        "tamanho_tela": "6.1 polegadas",
+        "memoria_max": "256GB",
+        "memoria_ram": "4GB"
+      },
+      {
+        "id": 10,
+        "marca": "Apple",
+        "nome": "Apple Iphone 12 Mini",
+        "modelo": "12",
+        "versao": "MINI",
+        "foto": "https://raw.githubusercontent.com/Alochio/iphoneAPI/main/images/iphone12mini.jpg",
+        "tamanho_tela": "5.4 polegadas",
+        "memoria_max": "256GB",
+        "memoria_ram": "4GB"
+      },
+      {
+        "id": 11,
+        "marca": "Apple",
+        "nome": "Apple Iphone 12 PRO",
+        "modelo": "12",
+        "versao": "PRO",
+        "foto": "https://raw.githubusercontent.com/Alochio/iphoneAPI/main/images/iphone12pro.jpg",
+        "tamanho_tela": "6.1 polegadas",
+        "memoria_max": "512GB",
+        "memoria_ram": "6GB"
+      },
+      {
+        "id": 12,
+        "marca": "Apple",
+        "nome": "Apple Iphone 12 PRO MAX",
+        "modelo": "12",
+        "versao": "PRO MAX",
+        "foto": "https://raw.githubusercontent.com/Alochio/iphoneAPI/main/images/iphone12promax.jpg",
+        "tamanho_tela": "6.7 polegadas",
+        "memoria_max": "512GB",
+        "memoria_ram": "6GB"
+      },
+      {
+        "id": 13,
+        "marca": "Apple",
+        "nome": "Apple Iphone 13",
+        "modelo": "13",
+        "versao": "entrada",
+        "foto": "https://raw.githubusercontent.com/Alochio/iphoneAPI/main/images/iphone13.jpg",
+        "tamanho_tela": "6.1 polegadas",
+        "memoria_max": "512GB",
+        "memoria_ram": "4GB"
+      },
+      {
+        "id": 14,
+        "marca": "Apple",
+        "nome": "Apple Iphone 13 Mini",
+        "modelo": "13",
+        "versao": "MINI",
+        "foto": "https://raw.githubusercontent.com/Alochio/iphoneAPI/main/images/iphone13mini.jpg",
+        "tamanho_tela": "5.42 polegadas",
+        "memoria_max": "512GB",
+        "memoria_ram": "4GB"
+      },
+      {
+        "id": 15,
+        "marca": "Apple",
+        "nome": "Apple Iphone 13 PRO",
+        "modelo": "13",
+        "versao": "PRO",
+        "foto": "https://raw.githubusercontent.com/Alochio/iphoneAPI/main/images/iphone13pro.jpg",
+        "tamanho_tela": "6.06 polegadas",
+        "memoria_max": "1000GB",
+        "memoria_ram": "6GB"
+      },
+      {
+        "id": 16,
+        "marca": "Apple",
+        "nome": "Apple Iphone 13 PRO MAX",
+        "modelo": "13",
+        "versao": "PRO MAX",
+        "foto": "https://raw.githubusercontent.com/Alochio/iphoneAPI/main/images/iphone13promax.jpg",
+        "tamanho_tela": "6.7 polegadas",
+        "memoria_max": "1000GB",
+        "memoria_ram": "6GB"
+      },
+      {
+        "id": 17,
+        "marca": "Apple",
+        "nome": "Apple Iphone 14",
+        "modelo": "14",
+        "versao": "entrada",
+        "foto": "https://raw.githubusercontent.com/Alochio/iphoneAPI/main/images/iphone14.jpg",
+        "tamanho_tela": "6.1 polegadas",
+        "memoria_max": "512GB",
+        "memoria_ram": "6GB"
+      },
+      {
+        "id": 18,
+        "marca": "Apple",
+        "nome": "Apple Iphone 14 PLUS",
+        "modelo": "14",
+        "versao": "PLUS",
+        "foto": "https://raw.githubusercontent.com/Alochio/iphoneAPI/main/images/iphone14plus.jpg",
+        "tamanho_tela": "6.7 polegadas",
+        "memoria_max": "512GB",
+        "memoria_ram": "6GB"
+      },
+      {
+        "id": 19,
+        "marca": "Apple",
+        "nome": "Apple Iphone 14 PRO",
+        "modelo": "14",
+        "versao": "PRO",
+        "foto": "https://raw.githubusercontent.com/Alochio/iphoneAPI/main/images/iphone14pro.jpg",
+        "tamanho_tela": "6.1 polegadas",
+        "memoria_max": "1000GB",
+        "memoria_ram": "6GB"
+      },
+      {
+        "id": 20,
+        "marca": "Apple",
+        "nome": "Apple Iphone 14 PRO MAX",
+        "modelo": "14",
+        "versao": "PRO MAX",
+        "foto": "https://raw.githubusercontent.com/Alochio/iphoneAPI/main/images/iphone14promax.jpg",
+        "tamanho_tela": "6.7 polegadas",
+        "memoria_max": "1000GB",
+        "memoria_ram": "6GB"
+      },
+      {
+        "id": 21,
+        "marca": "Apple",
+        "nome": "Apple Iphone 15",
+        "modelo": "15",
+        "versao": "entrada",
+        "foto": "https://raw.githubusercontent.com/Alochio/iphoneAPI/main/images/iphone15.jpg",
+        "tamanho_tela": "6.1 polegadas",
+        "memoria_max": "512GB",
+        "memoria_ram": "6GB"
+      },
+      {
+        "id": 22,
+        "marca": "Apple",
+        "nome": "Apple Iphone 15 PLUS",
+        "modelo": "15",
+        "versao": "PLUS",
+        "foto": "https://raw.githubusercontent.com/Alochio/iphoneAPI/main/images/iphone15plus.jpg",
+        "tamanho_tela": "6.7 polegadas",
+        "memoria_max": "512GB",
+        "memoria_ram": "6GB"
+      },
+      {
+        "id": 23,
+        "marca": "Apple",
+        "nome": "Apple Iphone 15 PRO",
+        "modelo": "15",
+        "versao": "PRO",
+        "foto": "https://raw.githubusercontent.com/Alochio/iphoneAPI/main/images/iphone15pro.jpg",
+        "tamanho_tela": "6.1 polegadas",
+        "memoria_max": "1024GB",
+        "memoria_ram": "8GB"
+      },
+      {
+        "id": 24,
+        "marca": "Apple",
+        "nome": "Apple Iphone 15 PRO MAX",
+        "modelo": "15",
+        "versao": "PRO MAX",
+        "foto": "https://raw.githubusercontent.com/Alochio/iphoneAPI/main/images/iphone15promax.jpg",
+        "tamanho_tela": "6.7 polegadas",
+        "memoria_max": "1024GB",
+        "memoria_ram": "8GB"
+      }
+    ]
+  }
+  
